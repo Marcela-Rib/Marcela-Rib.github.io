@@ -22,4 +22,3 @@
 - Figma
 - Canva
 
-![imagem de gato](file:///C:/Users/ribei/Downloads/Marcela%20Ribeiro.svg)
