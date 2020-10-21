@@ -4,6 +4,6 @@ gem "github-pages", group: :jekyll_plugins
 title: [Marcela Ribeiro]
 description: [Currículo profissional]
 
-logo: /assets/Marcela Ribeiro.svg
+logo: https://raw.githubusercontent.com/Marcela-Rib/Marcela-Rib.github.io/master/assets/Marcela%20Ribeiro.svg
 show_downloads: ["true"]
 google_analytics: [Your Google Analytics tracking ID]
