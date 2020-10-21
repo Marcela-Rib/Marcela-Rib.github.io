@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/Marcela-Rib/Marcela-Rib.github.io/master/Marcela%20Ribeiro.svg)
+
 <h2> Bem vinde ao meu site! </h2>
 
 # Marcela Ribeiro
@@ -22,4 +24,4 @@
 - Figma
 - Canva
 
-![logo](https://raw.githubusercontent.com/Marcela-Rib/Marcela-Rib.github.io/master/Marcela%20Ribeiro.svg)
+
